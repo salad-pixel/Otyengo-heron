@@ -1,2 +1,4 @@
-# Otyengo-heron
- A metroidbrania based in the world of Jungle Gym
+# Otyengo (Heron)
+The follow-up to Jungle Gym. Explore a uniquely crafted city of birds, known as Otyengo (translates to Heron).
+
+With only your wits and double-jumping player character, the city is all yours for exploring. Perhaps you'd like to listen to records mounted on the wall, marvel at the mechnical cranes, climb the tallest signal tower, wander the many deserted streets littering Otyengo, or learn the story of the birds who once populated the city. What will you find?
